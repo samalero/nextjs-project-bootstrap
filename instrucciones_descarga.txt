@@ -1,0 +1,1 @@
+Para descargar el archivo zip, abre el panel lateral de archivos en VSCode, busca el archivo 'pet-full-project.zip' en el directorio raíz y haz clic derecho para seleccionar 'Download' o 'Descargar'.
